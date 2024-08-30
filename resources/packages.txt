@@ -1,0 +1,5 @@
+Lista de pacotes que podem ser úteis nesse projeto.
+
+https://moment.github.io/luxon/#/
+https://ramdajs.com
+https://immutable-js.com
