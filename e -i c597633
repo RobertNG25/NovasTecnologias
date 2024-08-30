@@ -1,0 +1,14 @@
+[33m86ac651[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcalculos-basicos[m[33m)[m adicionando testes simples
+[33m26ae301[m correção de bug na função: somarStrings
+[33mb879501[m bug corrigido
+[33m0350ada[m adicionada função para subtrair strings
+[33m9b7edc9[m adicionada função para subtrair valores, em string, presentes em um array
+[33m3a2d79c[m[33m ([m[1;31morigin/calculos-basicos[m[33m, [m[1;31morigin/HEAD[m[33m)[m adicionada função para subtrair itens (números) em um array
+[33md8e52eb[m adicionada função para subtrair números
+[33meee5bbe[m arquivo renomeado para melhor organização
+[33m8108e0b[m adicionada função para somar itens (strings) em um array
+[33m4e9518d[m adicionada função para somar strings
+[33m1a4dac4[m adicionada função para somar itens (números) em um array
+[33m1069076[m adicionada função para somar números
+[33mfc5cba9[m adicionando placeholders de arquivos
+[33mc597633[m commit inicial
